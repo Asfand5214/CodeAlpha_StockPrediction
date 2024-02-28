@@ -1,1 +1,1 @@
-# CodeAlpha_StockPrediction
+# CodeAlpha_Tasks
